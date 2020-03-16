@@ -1,0 +1,5 @@
+#book-list li:hover{
+  border: rgb(106, 137, 231) solid 1px;
+  background-color: salmon;
+  width: fit-content;
+}
